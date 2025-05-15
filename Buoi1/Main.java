@@ -1,5 +1,5 @@
-package Buoi1;
-import Buoi1.Singleton;
+package javaprogramming.Buoi1;
+import javaprogramming.Buoi1.Singleton;
 // File: Main.java
 class Main {
     public static void main(String[] args) {
