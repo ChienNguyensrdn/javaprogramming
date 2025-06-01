@@ -1,0 +1,17 @@
+com/example/demo/repository/RoleRepository.class
+com/example/demo/repository/UserRepository.class
+com/example/demo/payload/SignUpRequest.class
+com/example/demo/security/JwtTokenProvider.class
+com/example/demo/controller/TestController.class
+com/example/demo/model/Role.class
+com/example/demo/payload/LoginRequest.class
+com/example/demo/model/Role$RoleName.class
+com/example/demo/DemoApplication.class
+com/example/demo/security/UserPrincipal.class
+com/example/demo/config/OpenApiConfig.class
+com/example/demo/security/JwtAuthenticationFilter.class
+com/example/demo/security/CustomUserDetailsService.class
+com/example/demo/model/User.class
+com/example/demo/payload/JwtAuthenticationResponse.class
+com/example/demo/controller/AuthController.class
+com/example/demo/security/WebSecurityConfig.class

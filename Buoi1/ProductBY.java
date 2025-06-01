@@ -1,4 +1,4 @@
-package Buoi1;
+package javaprogramming.Buoi1;
 
 public class ProductBY implements IProductB {
     private String code;
